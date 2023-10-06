@@ -1,0 +1,29 @@
+//COMPOSITION
+
+
+
+Create a class Employee with following attributes
+
+Id string;
+Name string;
+Salary float;
+Dept which is either DEVELOPMENT, TESTING OR INTEGRATION
+Project which is a pointer to an instance of a project class
+
+create a class project with the following attributes
+
+_name string
+_duration_days which is integer
+_budget float
+
+1.A function to create 3 objects of project in an array.Also create 3 objects of Employee in a separate
+array.Link one project to one Employee
+Input: 2 arrays (in one for Employees), (second for project)
+output : void
+
+
+2.A function to return the pointer to the Employee with highest Salary
+
+3.A function to return count of all Employee in the array whose _dept values matches with the second parameter passed to the function
+
+4.Find the average budget of all the project
