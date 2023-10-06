@@ -1,0 +1,14 @@
+id string,
+brand string,
+type which is either CAR,BIKE or OTHER
+price float
+
+parameterize constructor with all the parameters
+parameterize constructor without price parameters
+a copy constructor to copy the object
+
+create the following functiionalities
+a function to create the 3 objects on the heap
+a function to find average price of all objects
+
+Demonstrate all functiionalities in Main.cpp

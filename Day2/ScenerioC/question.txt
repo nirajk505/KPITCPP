@@ -1,0 +1,11 @@
+We want to create objects of multiple classes (WHICH ARE PART OF INHERITANCE HIERARCHY)
+We would like to store all objects in same container
+
+all classes in  the HIERARCHY have common functionality (usually declared in parent class)
+
+
+create a class Bike with the following attribute
+
+bike mileage which is float value
+bike type which is either commute,sports,atv
+

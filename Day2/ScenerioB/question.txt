@@ -1,0 +1,23 @@
+We want to create a new type and one or more subcategories of that type
+each time a new data values comes it should belong to one of the subcategories and should never 
+be tagged as the general type we created
+
+create a class VEHICLE with the following attributes
+
+id string,
+brand string,
+type which is either CAR,BIKE or OTHER
+price float
+
+parameterize constructor with all the parameters
+parameterize constructor without price parameters
+a copy constructor to copy the object
+
+CalculateTax whose implementation might change in each child but signature is 
+"takes no parameter, return float"
+
+create the following functiionalities
+a function to create the 3 objects on the heap
+a function to find average price of all objects
+
+Demonstrate all functiionalities in Main.cpp
